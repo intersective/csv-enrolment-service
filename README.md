@@ -14,7 +14,7 @@ Prerequisite
 
 Setup 
 -------
-1. Assuming valid aws keys are in possession and user is on MAC OSX, go to **~/.aws** in root path with command _cd ~/.aws_. IF, **.aws** do not exist, please create one with command _mkdir .aws_ 
+1. Assuming valid aws keys are in possession, go to **~/.aws** in root path with command _cd ~/.aws_. IF, **.aws** do not exist, please create one with command _mkdir .aws_ 
 2. When you are in **~/.aws** folder, see **credentials** file exist. 
 3. IF **credentials** does not exist in the **~.aws**, please create one with command _touch credentials_ . IF the file exists, please skip this step.
 4. Open **credentials** file with any text editor you like.
